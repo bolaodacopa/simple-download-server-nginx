@@ -19,4 +19,4 @@ docker-compose restart
 docker-compose down
 
 ## Teste
-curl localhost:8080/arquivos/teste.txt
+curl http://localhost:8080/arquivos/teste.txt
